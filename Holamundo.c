@@ -3,5 +3,5 @@
 // comentario
 
 int main (int argc, char *argv) {
-	printf("Hola mundo");
+	printf("Hola mundo arturo");
 }   
